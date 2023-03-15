@@ -1,4 +1,4 @@
-# Queueing-System
+# Queueing System
 
 ## Random Number Generators
 To use the queueing system, users must first type in the number of patients. The number of patients is important since the system would need to generate the random number. Then, the user can choose two choices of random number generator.
